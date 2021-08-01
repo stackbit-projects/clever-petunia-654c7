@@ -25,3 +25,4 @@ min_version = "0.77.0"
 [author]
 name = "Luiz F. A. de Prá"
 homepage = "https://luizdepra.com"
+theme="coder"
